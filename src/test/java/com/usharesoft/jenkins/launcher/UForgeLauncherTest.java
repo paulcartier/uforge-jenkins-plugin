@@ -54,3 +54,4 @@ public class UForgeLauncherTest {
         verify(uForgeLauncher).initLogger(any());
     }
 }
+
